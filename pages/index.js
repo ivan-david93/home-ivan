@@ -1,6 +1,6 @@
 
 import React, { Component } from "react";
-var __html = require('./template');
+var __html = require('./template/template');
 var template = { __html: __html };
 
 class Home extends React.Component {
